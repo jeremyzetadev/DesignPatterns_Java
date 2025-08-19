@@ -1,4 +1,5 @@
 package Creational.Factory;
 
-public class Burger {
+public interface Burger {
+    void prepare();
 }
